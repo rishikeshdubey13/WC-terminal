@@ -23,7 +23,6 @@ def main():
         data = sys.stdin.buffer.read()
         
 
-    
 
 if __name__ == "__main__":
     main()
